@@ -9,9 +9,11 @@ package com.mycompany.gitexploration;
  *
  * @author wahyu
  */
-public class GitExploration {
+public class AppsBangunDatar{
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
 }
+
+/* method untuk menghitung luas bangun datar*/
